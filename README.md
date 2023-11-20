@@ -64,8 +64,8 @@
 ![image](https://github.com/MukeshVelmurugan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118707363/90ae618e-13bc-43ea-bd29-351515999519)
 
 
-### Name: ARHAM S
-### Register Number: 212222110005
+### Name: KATHIRAVAN.P
+### Register Number: 212222230063
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
